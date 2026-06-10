@@ -1,0 +1,14 @@
+{
+  "local": {
+    "API_BASE_URL": "https://apib2b.metadevzone.com/",
+    "API_BASE_KEY": "TEMPyxTOYCHGDFr56SWAG",
+    "IMAGE_BASE_URL": "https://b2b-point-of-sale-bucket.lon1.digitaloceanspaces.com/"
+  },
+
+  "dev": {
+    "API_BASE_URL":  "https://apib2b.metadevzone.com/",
+    "API_BASE_KEY":   "TEMPyxTOYCHGDFr56SWAG",
+    "IMAGE_BASE_URL": "https://b2b-point-of-sale-bucket.lon1.digitaloceanspaces.com/"
+  }
+}
+ 
