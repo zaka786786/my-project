@@ -502,7 +502,7 @@ const BusinessCustomer = ({ type, screen_path }) => {
     keepPreviousData: true,
     refetchOnWindowFocus: false,
   });
-
+  //
   const businessList =
     data?.business_list?.map((item) => ({
       ...item,
